@@ -62,7 +62,7 @@ for item in final_list:
     
     
 json_library = json.dumps(library)
-with open('C:\\Users\\omidm\\Development\\TJBot\\data.txt', 'w') as outfile:
+with open('C:\\Users\\omidm\\Development\\TJBot\\data.xml', 'w') as outfile:
     json.dump(library, outfile, ensure_ascii=False, sort_keys = True, indent = 3)
 
 #print (json_library)
