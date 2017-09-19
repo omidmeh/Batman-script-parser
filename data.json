@@ -1,0 +1,2221 @@
+[
+   {
+      "actor": "Gordon",
+      "line_number": 0,
+      "movie": "Batman (1966 film)",
+      "scene_id": 0,
+      "text": " Could be any one of them, but which one? W which ones?"
+   },
+   {
+      "actor": "Batman",
+      "line_number": 1,
+      "movie": "Batman (1966 film)",
+      "scene_id": 0,
+      "text": " Pretty fishy what happened to me on that ladder."
+   },
+   {
+      "actor": "Gordon",
+      "line_number": 2,
+      "movie": "Batman (1966 film)",
+      "scene_id": 0,
+      "text": " You mean, where there's a fish, there could be a Penguin."
+   },
+   {
+      "actor": "Robin",
+      "line_number": 3,
+      "movie": "Batman (1966 film)",
+      "scene_id": 0,
+      "text": " But wait! It happened at sea! See? \"C\" for Catwoman!"
+   },
+   {
+      "actor": "Batman",
+      "line_number": 4,
+      "movie": "Batman (1966 film)",
+      "scene_id": 0,
+      "text": " Yet... an exploding shark was pulling my leg!"
+   },
+   {
+      "actor": "Gordon",
+      "line_number": 5,
+      "movie": "Batman (1966 film)",
+      "scene_id": 0,
+      "text": " The Joker!"
+   },
+   {
+      "actor": "O'Hara",
+      "line_number": 6,
+      "movie": "Batman (1966 film)",
+      "scene_id": 0,
+      "text": "  all adds up to a sinister riddle. Riddle-er. Riddler?"
+   },
+   {
+      "actor": "Gordon",
+      "line_number": 7,
+      "movie": "Batman (1966 film)",
+      "scene_id": 0,
+      "text": " Oh, A thought strikes me. So dreadful I scarcely dare give it utterance."
+   },
+   {
+      "actor": "Batman",
+      "line_number": 8,
+      "movie": "Batman (1966 film)",
+      "scene_id": 0,
+      "text": " The four of them. Their forces combined..."
+   },
+   {
+      "actor": "Robin",
+      "line_number": 9,
+      "movie": "Batman (1966 film)",
+      "scene_id": 0,
+      "text": " Holy nightmare!"
+   },
+   {
+      "actor": "Commissioner Gordon",
+      "line_number": 0,
+      "movie": "Batman (1966 film)",
+      "scene_id": 1,
+      "text": " Penguin, Joker, Riddler... and Catwoman, too! The sum of the angles of that rectangle is too monstrous to contemplate."
+   },
+   {
+      "actor": "Batman",
+      "line_number": 1,
+      "movie": "Batman (1966 film)",
+      "scene_id": 1,
+      "text": " We've been given the plainest warning. They're working together to take over..."
+   },
+   {
+      "actor": "Chief O'Hara",
+      "line_number": 2,
+      "movie": "Batman (1966 film)",
+      "scene_id": 1,
+      "text": " Take over what, Batman? Gotham City?"
+   },
+   {
+      "actor": "Batman",
+      "line_number": 3,
+      "movie": "Batman (1966 film)",
+      "scene_id": 1,
+      "text": " Any two of them would try that!"
+   },
+   {
+      "actor": "Commissioner Gordon",
+      "line_number": 4,
+      "movie": "Batman (1966 film)",
+      "scene_id": 1,
+      "text": " The whole country?"
+   },
+   {
+      "actor": "Batman",
+      "line_number": 5,
+      "movie": "Batman (1966 film)",
+      "scene_id": 1,
+      "text": " If it were three of them, I would say yes, but four? Their minimum objective must be... the entire world."
+   },
+   {
+      "actor": "Riddler",
+      "line_number": 0,
+      "movie": "Batman (1966 film)",
+      "scene_id": 2,
+      "text": " I see the way to do it. We'll play each of our treacherous trumps in one hand, and we'll do it right here."
+   },
+   {
+      "actor": "Penguin",
+      "line_number": 1,
+      "movie": "Batman (1966 film)",
+      "scene_id": 2,
+      "text": " How?"
+   },
+   {
+      "actor": "Riddler",
+      "line_number": 2,
+      "movie": "Batman (1966 film)",
+      "scene_id": 2,
+      "text": " How? The end. The end, oh...  We shall spring them from The Joker's Jack-In-The-Box, through that window, out over the sea, and into the waiting arms of The Penguin's Exploding Octopus!  The trigger"
+   },
+   {
+      "actor": "Robin",
+      "line_number": 0,
+      "movie": "Batman (1966 film)",
+      "scene_id": 3,
+      "text": " Atomic batteries to power. Turbines to speed."
+   },
+   {
+      "actor": "Batman",
+      "line_number": 1,
+      "movie": "Batman (1966 film)",
+      "scene_id": 3,
+      "text": " Roger. Ready to move out."
+   },
+   {
+      "actor": "Batman",
+      "line_number": 0,
+      "movie": "Batman (1966 film)",
+      "scene_id": 4,
+      "text": " You there, Miss..."
+   },
+   {
+      "actor": "Miss Kitka",
+      "line_number": 1,
+      "movie": "Batman (1966 film)",
+      "scene_id": 4,
+      "text": " Comrade Kitayna Ireyna Tatanya Kerenska Alisoff. I am from the Moscow Bugle."
+   },
+   {
+      "actor": "Batman",
+      "line_number": 0,
+      "movie": "Batman (1966 film)",
+      "scene_id": 5,
+      "text": " If I could just reverse the polarity... send out waves of super-energy..."
+   },
+   {
+      "actor": "Penguin",
+      "line_number": 1,
+      "movie": "Batman (1966 film)",
+      "scene_id": 5,
+      "text": " He must be using a Super-Energy Reverse Polarizer!"
+   },
+   {
+      "actor": "Batman",
+      "line_number": 2,
+      "movie": "Batman (1966 film)",
+      "scene_id": 5,
+      "text": " Confound it! The batteries are dead!"
+   },
+   {
+      "actor": "Robin",
+      "line_number": 3,
+      "movie": "Batman (1966 film)",
+      "scene_id": 5,
+      "text": " Gosh, Batman. The nobility of the almost-human porpoise."
+   },
+   {
+      "actor": "Batman",
+      "line_number": 4,
+      "movie": "Batman (1966 film)",
+      "scene_id": 5,
+      "text": " True, Robin. It was noble of that animal to hurl himself into the path of that final torpedo. He gave his life for ours."
+   },
+   {
+      "actor": "Fangschliester",
+      "line_number": 0,
+      "movie": "Batman (1966 film)",
+      "scene_id": 6,
+      "text": " Answer affirmative, Batman! We disposed of a war surplus submarine last Friday. A pre-atomic model. To some chap named, uh, \"P. N. Guin\"."
+   },
+   {
+      "actor": "Batman",
+      "line_number": 1,
+      "movie": "Batman (1966 film)",
+      "scene_id": 6,
+      "text": " P. N. Guin?"
+   },
+   {
+      "actor": "Robin",
+      "line_number": 2,
+      "movie": "Batman (1966 film)",
+      "scene_id": 6,
+      "text": " The Penguin!"
+   },
+   {
+      "actor": "Batman",
+      "line_number": 3,
+      "movie": "Batman (1966 film)",
+      "scene_id": 6,
+      "text": " Did this P. N. Guin leave an address?"
+   },
+   {
+      "actor": "Fangschliester",
+      "line_number": 4,
+      "movie": "Batman (1966 film)",
+      "scene_id": 6,
+      "text": " No, just a post office box number. Would you like it?"
+   },
+   {
+      "actor": "Batman",
+      "line_number": 5,
+      "movie": "Batman (1966 film)",
+      "scene_id": 6,
+      "text": " No, thank you, Admiral.  You've been very helpful."
+   },
+   {
+      "actor": "Fangschliester",
+      "line_number": 6,
+      "movie": "Batman (1966 film)",
+      "scene_id": 6,
+      "text": " Avast and belay, Batman. Your tone sounds rather grim. We haven't done anything foolish, have we?"
+   },
+   {
+      "actor": "Batman",
+      "line_number": 7,
+      "movie": "Batman (1966 film)",
+      "scene_id": 6,
+      "text": "  Disposing of pre-atomic submarines to persons who don't even leave their full addresses?! Good day, Admiral!"
+   },
+   {
+      "actor": "Fangschliester",
+      "line_number": 8,
+      "movie": "Batman (1966 film)",
+      "scene_id": 6,
+      "text": " Gosh!"
+   },
+   {
+      "actor": "Batman",
+      "line_number": 0,
+      "movie": "Batman (1966 film)",
+      "scene_id": 7,
+      "text": " One"
+   },
+   {
+      "actor": "Robin",
+      "line_number": 1,
+      "movie": "Batman (1966 film)",
+      "scene_id": 7,
+      "text": " A ballpoint banana."
+   },
+   {
+      "actor": "Batman",
+      "line_number": 2,
+      "movie": "Batman (1966 film)",
+      "scene_id": 7,
+      "text": " Right! Two"
+   },
+   {
+      "actor": "Robin",
+      "line_number": 3,
+      "movie": "Batman (1966 film)",
+      "scene_id": 7,
+      "text": " Rushing people? Russians!"
+   },
+   {
+      "actor": "Batman",
+      "line_number": 4,
+      "movie": "Batman (1966 film)",
+      "scene_id": 7,
+      "text": " Right again! Now, what would you say they mean?"
+   },
+   {
+      "actor": "Robin",
+      "line_number": 5,
+      "movie": "Batman (1966 film)",
+      "scene_id": 7,
+      "text": " Banana... Russian... I've got it! Someone Russian is gonna slip on a banana peel and break their neck!"
+   },
+   {
+      "actor": "Batman",
+      "line_number": 6,
+      "movie": "Batman (1966 film)",
+      "scene_id": 7,
+      "text": " Precisely, Robin! The only possible meaning!"
+   },
+   {
+      "actor": "Alfred",
+      "line_number": 0,
+      "movie": "Batman (1966 film)",
+      "scene_id": 8,
+      "text": " What is the scheme, sir?"
+   },
+   {
+      "actor": "Batman",
+      "line_number": 1,
+      "movie": "Batman (1966 film)",
+      "scene_id": 8,
+      "text": " Tonight, Bruce Wayne will go out on the town with Miss Kitka."
+   },
+   {
+      "actor": "Alfred",
+      "line_number": 2,
+      "movie": "Batman (1966 film)",
+      "scene_id": 8,
+      "text": " A not-displeasing chore, sir."
+   },
+   {
+      "actor": "Batman",
+      "line_number": 3,
+      "movie": "Batman (1966 film)",
+      "scene_id": 8,
+      "text": " Indeed, Alfred! I've rarely met a girl who's such a potent argument in favor of international \"relations\"."
+   },
+   {
+      "actor": "Penguin",
+      "line_number": 0,
+      "movie": "Batman (1966 film)",
+      "scene_id": 9,
+      "text": " Careful, careful. quack, quack. Every one of them has a mother."
+   },
+   {
+      "actor": "Penguin",
+      "line_number": 0,
+      "movie": "Batman (1966 film)",
+      "scene_id": 10,
+      "text": " That's too soon! It must be Batcharges!"
+   },
+   {
+      "actor": "Riddler",
+      "line_number": 1,
+      "movie": "Batman (1966 film)",
+      "scene_id": 10,
+      "text": " And that means there'll be more of the dread things meant for us!"
+   },
+   {
+      "actor": "Catwoman",
+      "line_number": 2,
+      "movie": "Batman (1966 film)",
+      "scene_id": 10,
+      "text": " You dismal bird! You and your submarine, Where has it got us now?"
+   },
+   {
+      "actor": "Penguin",
+      "line_number": 3,
+      "movie": "Batman (1966 film)",
+      "scene_id": 10,
+      "text": " Shut up, you feline floozy!"
+   },
+   {
+      "actor": "Robin",
+      "line_number": 0,
+      "movie": "Batman (1966 film)",
+      "scene_id": 11,
+      "text": " When you think, Batman, with people in weird outfits, like the four super crooks hangin' around here, it's amazing somebody hasn't already reported this place to the police!"
+   },
+   {
+      "actor": "Batman",
+      "line_number": 1,
+      "movie": "Batman (1966 film)",
+      "scene_id": 11,
+      "text": " It's a low neighborhood, full of rumpots. They're used to curious sights, which they attribute to alcoholic delusions."
+   },
+   {
+      "actor": "Robin",
+      "line_number": 2,
+      "movie": "Batman (1966 film)",
+      "scene_id": 11,
+      "text": " Gosh, drink is sure a filthy thing, isn't it? I'd rather be dead than unable to trust my own eyes."
+   },
+   {
+      "actor": "Batman",
+      "line_number": 0,
+      "movie": "Batman (1966 film)",
+      "scene_id": 12,
+      "text": " Some days, you just can't get rid of a bomb!"
+   },
+   {
+      "actor": "Robin",
+      "line_number": 0,
+      "movie": "Batman (1966 film)",
+      "scene_id": 13,
+      "text": " The pirates - they're gone! Popped like balloons! How'd it happen?"
+   },
+   {
+      "actor": "Batman",
+      "line_number": 1,
+      "movie": "Batman (1966 film)",
+      "scene_id": 13,
+      "text": " Whoever de-hydrated those pirates could not have foreseen their accidental re-hydration with the heavy water we use in recharging the atomic pile!"
+   },
+   {
+      "actor": "Robin",
+      "line_number": 2,
+      "movie": "Batman (1966 film)",
+      "scene_id": 13,
+      "text": " Which naturally left them in a highly unstable condition!"
+   },
+   {
+      "actor": "Batman",
+      "line_number": 3,
+      "movie": "Batman (1966 film)",
+      "scene_id": 13,
+      "text": " You saw it yourself, Robin. The  SLIGHTEST impact was sufficient to instantly reduce them to anti-matter!"
+   },
+   {
+      "actor": "Robin",
+      "line_number": 4,
+      "movie": "Batman (1966 film)",
+      "scene_id": 13,
+      "text": " Antimatter? You mean they won't be coming back?"
+   },
+   {
+      "actor": "Batman",
+      "line_number": 5,
+      "movie": "Batman (1966 film)",
+      "scene_id": 13,
+      "text": " No, Robin. Not in this universe."
+   },
+   {
+      "actor": "Batman",
+      "line_number": 6,
+      "movie": "Batman (1966 film)",
+      "scene_id": 13,
+      "text": " Let that be an object lesson in the dangers of tampering with the laws of Mother Nature."
+   },
+   {
+      "actor": "Batman",
+      "line_number": 0,
+      "movie": "Batman (1966 film)",
+      "scene_id": 14,
+      "text": " \"What goes up white, and comes down yellow and white?\""
+   },
+   {
+      "actor": "Robin",
+      "line_number": 1,
+      "movie": "Batman (1966 film)",
+      "scene_id": 14,
+      "text": " An egg!"
+   },
+   {
+      "actor": "Batman",
+      "line_number": 2,
+      "movie": "Batman (1966 film)",
+      "scene_id": 14,
+      "text": " \"How do you divide seventeen apples among sixteen people?\""
+   },
+   {
+      "actor": "Robin",
+      "line_number": 3,
+      "movie": "Batman (1966 film)",
+      "scene_id": 14,
+      "text": " Make apple sauce!"
+   },
+   {
+      "actor": "Batman",
+      "line_number": 4,
+      "movie": "Batman (1966 film)",
+      "scene_id": 14,
+      "text": " Apples into apple sauce; a unification into one smooth mixture. An egg"
+   },
+   {
+      "actor": "Robin",
+      "line_number": 5,
+      "movie": "Batman (1966 film)",
+      "scene_id": 14,
+      "text": " A unification and a container of hope? United World Organization!"
+   },
+   {
+      "actor": "Batman",
+      "line_number": 6,
+      "movie": "Batman (1966 film)",
+      "scene_id": 14,
+      "text": " Precisely, Robin!"
+   },
+   {
+      "actor": "Robin",
+      "line_number": 0,
+      "movie": "Batman (1966 film)",
+      "scene_id": 15,
+      "text": " Holy marathon! I'm getting a stitch, Batman!"
+   },
+   {
+      "actor": "Batman",
+      "line_number": 1,
+      "movie": "Batman (1966 film)",
+      "scene_id": 15,
+      "text": " Let's hope it's a stitch in time, Robin! That saves nine  the nine members of the United World Security Council!"
+   },
+   {
+      "actor": "Catwoman",
+      "line_number": 0,
+      "movie": "Batman (1966 film)",
+      "scene_id": 16,
+      "text": " Riddler."
+   },
+   {
+      "actor": "Riddler",
+      "line_number": 1,
+      "movie": "Batman (1966 film)",
+      "scene_id": 16,
+      "text": " Yes?"
+   },
+   {
+      "actor": "Catwoman",
+      "line_number": 2,
+      "movie": "Batman (1966 film)",
+      "scene_id": 16,
+      "text": " You're mad, Riddler. Penguin finished Batman by now."
+   },
+   {
+      "actor": "Riddler",
+      "line_number": 3,
+      "movie": "Batman (1966 film)",
+      "scene_id": 16,
+      "text": " Why, that miserable waddling mountebank of a bird? He couldn't finish a bag of popcorn! "
+   },
+   {
+      "actor": "Joker",
+      "line_number": 4,
+      "movie": "Batman (1966 film)",
+      "scene_id": 16,
+      "text": " So, say Penguin failed. All the more reason not to have that your crazy clues."
+   },
+   {
+      "actor": "Riddler",
+      "line_number": 5,
+      "movie": "Batman (1966 film)",
+      "scene_id": 16,
+      "text": " Oh, But I must, I must. Outwitting Batman is my sole delight, my joy, my heaven on earth, my very paradise. "
+   },
+   {
+      "actor": "Joker",
+      "line_number": 6,
+      "movie": "Batman (1966 film)",
+      "scene_id": 16,
+      "text": " Riddler, come back!"
+   },
+   {
+      "actor": "Batman",
+      "line_number": 0,
+      "movie": "Batman (1966 film)",
+      "scene_id": 17,
+      "text": " Who knows, Robin? This strange mixing of minds may be the greatest single service ever performed for humanity. Let's go, but, inconspicuously... through the window. We'll use our Batropes.  Our job is finished."
+   },
+   {
+      "actor": "Pirate",
+      "line_number": 0,
+      "movie": "Batman (1966 film)",
+      "scene_id": 18,
+      "text": " Ahoy, Catwoman!"
+   },
+   {
+      "actor": "Miss Kitka",
+      "line_number": 1,
+      "movie": "Batman (1966 film)",
+      "scene_id": 18,
+      "text": "  Imbecile, How many times have I told you? Never use my real name in public!"
+   },
+   {
+      "actor": "Miss Kitka",
+      "line_number": 0,
+      "movie": "Batman (1966 film)",
+      "scene_id": 19,
+      "text": " If you please, to take off the mask to give the better picture?"
+   },
+   {
+      "actor": "Commissioner Gordon",
+      "line_number": 1,
+      "movie": "Batman (1966 film)",
+      "scene_id": 19,
+      "text": " Great Scott! Batman take off his mask?"
+   },
+   {
+      "actor": "Chief O'Hara",
+      "line_number": 2,
+      "movie": "Batman (1966 film)",
+      "scene_id": 19,
+      "text": " The woman must be mad!"
+   },
+   {
+      "actor": "Batman",
+      "line_number": 3,
+      "movie": "Batman (1966 film)",
+      "scene_id": 19,
+      "text": " Please... Chief O'Hara... all of you. This young lady is a stranger to our shores. Her request is not unnatural, however, impossible to grant."
+   },
+   {
+      "actor": "Miss Kitka",
+      "line_number": 4,
+      "movie": "Batman (1966 film)",
+      "scene_id": 19,
+      "text": " Impossible?"
+   },
+   {
+      "actor": "Batman",
+      "line_number": 5,
+      "movie": "Batman (1966 film)",
+      "scene_id": 19,
+      "text": " Indeed. If Robin and I were to remove our masks, the secret of our true identities would be revealed."
+   },
+   {
+      "actor": "Commissioner Gordon",
+      "line_number": 6,
+      "movie": "Batman (1966 film)",
+      "scene_id": 19,
+      "text": " Completely destroying their value as ace crimefighters."
+   },
+   {
+      "actor": "Chief O'Hara",
+      "line_number": 7,
+      "movie": "Batman (1966 film)",
+      "scene_id": 19,
+      "text": " Sure, ma'am. Not even Commisioner Gordon and meself know who they really are."
+   },
+   {
+      "actor": "Robin",
+      "line_number": 8,
+      "movie": "Batman (1966 film)",
+      "scene_id": 19,
+      "text": " In fact, our own relatives we live with don't know."
+   },
+   {
+      "actor": "Miss Kitka",
+      "line_number": 9,
+      "movie": "Batman (1966 film)",
+      "scene_id": 19,
+      "text": " But your so curious costumes..."
+   },
+   {
+      "actor": "Robin",
+      "line_number": 10,
+      "movie": "Batman (1966 film)",
+      "scene_id": 19,
+      "text": " Don't be put off by them, ma'am. Underneath this garb, we're perfectly ordinary Americans."
+   },
+   {
+      "actor": "Miss Kitka",
+      "line_number": 11,
+      "movie": "Batman (1966 film)",
+      "scene_id": 19,
+      "text": " You are like the masked vigilantes in the Westerns, no?"
+   },
+   {
+      "actor": "Commissioner Gordon",
+      "line_number": 12,
+      "movie": "Batman (1966 film)",
+      "scene_id": 19,
+      "text": " Certainly not! Batman and Robin are fully deputized agents of the law."
+   },
+   {
+      "actor": "Robin",
+      "line_number": 13,
+      "movie": "Batman (1966 film)",
+      "scene_id": 19,
+      "text": " Support your police! That's our message!"
+   },
+   {
+      "actor": "Batman",
+      "line_number": 14,
+      "movie": "Batman (1966 film)",
+      "scene_id": 19,
+      "text": " Well said, Robin... and no better way to end this press conference... thank you, and good day."
+   },
+   {
+      "actor": "Riddler",
+      "line_number": 0,
+      "movie": "Batman (1966 film)",
+      "scene_id": 20,
+      "text": " You and your trained exploding shark."
+   },
+   {
+      "actor": "Penguin",
+      "line_number": 1,
+      "movie": "Batman (1966 film)",
+      "scene_id": 20,
+      "text": " Faugh, Quack! How should I know they'd have a can of shark-repellent Batspray handy? Why, you sniveling sardine!"
+   },
+   {
+      "actor": "Riddler",
+      "line_number": 2,
+      "movie": "Batman (1966 film)",
+      "scene_id": 20,
+      "text": " Why you pompous, puffed-up penguin!"
+   },
+   {
+      "actor": "Joker",
+      "line_number": 3,
+      "movie": "Batman (1966 film)",
+      "scene_id": 20,
+      "text": " Oh, friends, make peace. Have a shake on me.  A joke a day keeps the gloom away!"
+   },
+   {
+      "actor": "Catwoman",
+      "line_number": 4,
+      "movie": "Batman (1966 film)",
+      "scene_id": 20,
+      "text": " (to her cat) Sic 'em, Hecate. Scratch out their eyes."
+   },
+   {
+      "actor": "Penguin",
+      "line_number": 5,
+      "movie": "Batman (1966 film)",
+      "scene_id": 20,
+      "text": " Take away that ravenous panther!"
+   },
+   {
+      "actor": "Riddler",
+      "line_number": 6,
+      "movie": "Batman (1966 film)",
+      "scene_id": 20,
+      "text": " So help me, Catwoman, I'll feed him to the birds."
+   },
+   {
+      "actor": "Joker",
+      "line_number": 7,
+      "movie": "Batman (1966 film)",
+      "scene_id": 20,
+      "text": " I'll incapacitate the beast with my trick confetti!"
+   },
+   {
+      "actor": "Catwoman",
+      "line_number": 8,
+      "movie": "Batman (1966 film)",
+      "scene_id": 20,
+      "text": " United Underworld?  We're about as united as the members of the United World Headquarters on Gotham East River. What's the matter with you all?"
+   },
+   {
+      "actor": "Riddler",
+      "line_number": 9,
+      "movie": "Batman (1966 film)",
+      "scene_id": 20,
+      "text": " She's right. she's right! If we don't manage to somehow swallow our supercriminal pride, I'm afraid--"
+   },
+   {
+      "actor": "Penguin",
+      "line_number": 10,
+      "movie": "Batman (1966 film)",
+      "scene_id": 20,
+      "text": " Right, Mr. Riddler, quite right! We must hang together, or most assuredly we shall hang seperately."
+   },
+   {
+      "actor": "Joker",
+      "line_number": 11,
+      "movie": "Batman (1966 film)",
+      "scene_id": 20,
+      "text": " Oh, and what a pity that would be, on the eve of the greatest criminal coup anyone ever dreamed of!"
+   },
+   {
+      "actor": "Riddler",
+      "line_number": 12,
+      "movie": "Batman (1966 film)",
+      "scene_id": 20,
+      "text": " Aha! How did it go, Catwoman?"
+   },
+   {
+      "actor": "Catwoman",
+      "line_number": 13,
+      "movie": "Batman (1966 film)",
+      "scene_id": 20,
+      "text": " Purr-fectly, purr-fectly. In my disguise as Kitka, I penetrated their press conference. The fools are completely baffled."
+   },
+   {
+      "actor": "Joker",
+      "line_number": 14,
+      "movie": "Batman (1966 film)",
+      "scene_id": 20,
+      "text": " Yes, but undrowned."
+   },
+   {
+      "actor": "Catwoman",
+      "line_number": 15,
+      "movie": "Batman (1966 film)",
+      "scene_id": 20,
+      "text": " Yes, unfortunately. Batman's boots didn't even look damp! How's our prisoner? Still doesn't know he's been kidnapped?"
+   },
+   {
+      "actor": "Penguin",
+      "line_number": 16,
+      "movie": "Batman (1966 film)",
+      "scene_id": 20,
+      "text": " He hasn't the foggiest. He just keeps ringing for his confounded tea."
+   },
+   {
+      "actor": "Man",
+      "line_number": 0,
+      "movie": "Batman Begins",
+      "scene_id": 0,
+      "text": " Are you so desperate to fight criminals that you lock yourself in to take them on one at a time?"
+   },
+   {
+      "actor": "Bruce",
+      "line_number": 1,
+      "movie": "Batman Begins",
+      "scene_id": 0,
+      "text": " Actually, there were seven of them."
+   },
+   {
+      "actor": "Man",
+      "line_number": 2,
+      "movie": "Batman Begins",
+      "scene_id": 0,
+      "text": " I counted six, Mr. Wayne."
+   },
+   {
+      "actor": "Bruce",
+      "line_number": 3,
+      "movie": "Batman Begins",
+      "scene_id": 0,
+      "text": " How do you know my name?"
+   },
+   {
+      "actor": "Man",
+      "line_number": 4,
+      "movie": "Batman Begins",
+      "scene_id": 0,
+      "text": " The world is too small a place for someone like Bruce Wayne to disappear no matter how low he chooses to sink."
+   },
+   {
+      "actor": "Bruce",
+      "line_number": 5,
+      "movie": "Batman Begins",
+      "scene_id": 0,
+      "text": " Who are you?"
+   },
+   {
+      "actor": "Man",
+      "line_number": 6,
+      "movie": "Batman Begins",
+      "scene_id": 0,
+      "text": " My name is Henri Ducard, but I speak for Ras Al Ghul, a man greatly feared by the criminal underworld. A man who can offer you a path."
+   },
+   {
+      "actor": "Bruce",
+      "line_number": 7,
+      "movie": "Batman Begins",
+      "scene_id": 0,
+      "text": " What makes you think I need a path?"
+   },
+   {
+      "actor": "Ducard",
+      "line_number": 8,
+      "movie": "Batman Begins",
+      "scene_id": 0,
+      "text": " Someone like you is only here by choice. You have been exploring the criminal fraternity, but whatever your original intentions, you have become truly lost."
+   },
+   {
+      "actor": "Bruce",
+      "line_number": 9,
+      "movie": "Batman Begins",
+      "scene_id": 0,
+      "text": " And what path can Ras Al Ghul offer?"
+   },
+   {
+      "actor": "Ducard",
+      "line_number": 10,
+      "movie": "Batman Begins",
+      "scene_id": 0,
+      "text": " The path of a man who shares his hatred of evil and wished to serve true justice. The path of the League of Shadows."
+   },
+   {
+      "actor": "Bruce",
+      "line_number": 11,
+      "movie": "Batman Begins",
+      "scene_id": 0,
+      "text": " Youre vigilantes."
+   },
+   {
+      "actor": "Ducard",
+      "line_number": 12,
+      "movie": "Batman Begins",
+      "scene_id": 0,
+      "text": " No, no, no. A vigilante is just a man lost in the scramble for his own gratification. He can be destroyed or locked up. But if you make yourself more than just a man, if you devote yourself to an ideal, and if they cant stop you, then you become something else entirely."
+   },
+   {
+      "actor": "Bruce",
+      "line_number": 13,
+      "movie": "Batman Begins",
+      "scene_id": 0,
+      "text": " Which is?"
+   },
+   {
+      "actor": "Ducard",
+      "line_number": 14,
+      "movie": "Batman Begins",
+      "scene_id": 0,
+      "text": " A legend, Mr. Wayne. Tomorrow, you will be released. If you are bored of brawling with thieves and want to achieve something, there is a rare blue flower that grows on the eastern slopes. Pick one of these flowers. If you can carry it to the top of the mountain, you may find what you were looking for in the first place."
+   },
+   {
+      "actor": "Bruce",
+      "line_number": 15,
+      "movie": "Batman Begins",
+      "scene_id": 0,
+      "text": " And what was I looking for?"
+   },
+   {
+      "actor": "Ducard",
+      "line_number": 16,
+      "movie": "Batman Begins",
+      "scene_id": 0,
+      "text": " Only you can know that."
+   },
+   {
+      "actor": "Ducard",
+      "line_number": 0,
+      "movie": "Batman Begins",
+      "scene_id": 1,
+      "text": " You're stronger than your father."
+   },
+   {
+      "actor": "Bruce Wayne",
+      "line_number": 1,
+      "movie": "Batman Begins",
+      "scene_id": 1,
+      "text": " You didn't know my father."
+   },
+   {
+      "actor": "Ducard",
+      "line_number": 2,
+      "movie": "Batman Begins",
+      "scene_id": 1,
+      "text": " But I know the rage that drives you. That impossible anger strangling the grief, until the memory of your loved ones is just poison in your veins. And one day you catch yourself wishing the person you loved had never existed, so you'd be spared your pain. I wasn't always here in the mountains. Once I had a wife, my great love. She was taken from me. Like you, I was forced to learn that there are those without decency that must be fought without hesitation, without pity. Your anger gives you great power, but if you let it, it will destroy you, as it almost did me."
+   },
+   {
+      "actor": "Bruce",
+      "line_number": 3,
+      "movie": "Batman Begins",
+      "scene_id": 1,
+      "text": " What stopped it?"
+   },
+   {
+      "actor": "Ducard",
+      "line_number": 4,
+      "movie": "Batman Begins",
+      "scene_id": 1,
+      "text": " Vengeance."
+   },
+   {
+      "actor": "Bruce",
+      "line_number": 5,
+      "movie": "Batman Begins",
+      "scene_id": 1,
+      "text": " That's no help to me."
+   },
+   {
+      "actor": "Ducard",
+      "line_number": 6,
+      "movie": "Batman Begins",
+      "scene_id": 1,
+      "text": " Why, Bruce? Why did you not avenge your parents?"
+   },
+   {
+      "actor": "Batman",
+      "line_number": 0,
+      "movie": "Batman Begins",
+      "scene_id": 2,
+      "text": "  Don't turn around. You're a good cop, one of the few."
+   },
+   {
+      "actor": "Sgt James Gordon",
+      "line_number": 1,
+      "movie": "Batman Begins",
+      "scene_id": 2,
+      "text": " What do you want?"
+   },
+   {
+      "actor": "Batman",
+      "line_number": 2,
+      "movie": "Batman Begins",
+      "scene_id": 2,
+      "text": " Carmine Falcone brings in shipments of drugs every week. Nobody takes him down. Why?"
+   },
+   {
+      "actor": "Gordon",
+      "line_number": 3,
+      "movie": "Batman Begins",
+      "scene_id": 2,
+      "text": " He's paid up with the right people."
+   },
+   {
+      "actor": "Batman",
+      "line_number": 4,
+      "movie": "Batman Begins",
+      "scene_id": 2,
+      "text": " What would it take to bring him down?"
+   },
+   {
+      "actor": "Gordon",
+      "line_number": 5,
+      "movie": "Batman Begins",
+      "scene_id": 2,
+      "text": " Leverage on Judge Faden, and a DA brave enough to prosecute."
+   },
+   {
+      "actor": "Batman",
+      "line_number": 6,
+      "movie": "Batman Begins",
+      "scene_id": 2,
+      "text": " Rachel Dawes."
+   },
+   {
+      "actor": "Gordon",
+      "line_number": 7,
+      "movie": "Batman Begins",
+      "scene_id": 2,
+      "text": " Who are you?"
+   },
+   {
+      "actor": "Batman",
+      "line_number": 8,
+      "movie": "Batman Begins",
+      "scene_id": 2,
+      "text": "  Watch for my sign. "
+   },
+   {
+      "actor": "Gordon",
+      "line_number": 9,
+      "movie": "Batman Begins",
+      "scene_id": 2,
+      "text": " You're just one man?"
+   },
+   {
+      "actor": "Batman",
+      "line_number": 10,
+      "movie": "Batman Begins",
+      "scene_id": 2,
+      "text": " Now we're two."
+   },
+   {
+      "actor": "Gordon",
+      "line_number": 11,
+      "movie": "Batman Begins",
+      "scene_id": 2,
+      "text": " We?"
+   },
+   {
+      "actor": "Bruce Wayne",
+      "line_number": 0,
+      "movie": "Batman Begins",
+      "scene_id": 3,
+      "text": "  What's that?"
+   },
+   {
+      "actor": "Lucius Fox",
+      "line_number": 1,
+      "movie": "Batman Begins",
+      "scene_id": 3,
+      "text": " The Tumbler? Oh, you wouldn't be interested in that.  She was built as a bridging vehicle. During combat, two of these would jump over a river, towing cables. Over here on the throttle, flip that open and throttle up. This will boost you into a rampless jump.  Not now! Not... not now, Sir!"
+   },
+   {
+      "actor": "Tumbler AI",
+      "line_number": 2,
+      "movie": "Batman Begins",
+      "scene_id": 3,
+      "text": " Afterburner disengaged."
+   },
+   {
+      "actor": "Fox",
+      "line_number": 3,
+      "movie": "Batman Begins",
+      "scene_id": 3,
+      "text": " We never could get the damn bridge to work, but this baby works just fine.  So, what do you think?"
+   },
+   {
+      "actor": "Wayne",
+      "line_number": 4,
+      "movie": "Batman Begins",
+      "scene_id": 3,
+      "text": " Does it come in black?"
+   },
+   {
+      "actor": "Rachel Dawes",
+      "line_number": 0,
+      "movie": "Batman Begins",
+      "scene_id": 4,
+      "text": " Bruce?"
+   },
+   {
+      "actor": "Bruce Wayne",
+      "line_number": 1,
+      "movie": "Batman Begins",
+      "scene_id": 4,
+      "text": "  Rachel?"
+   },
+   {
+      "actor": "Dawes",
+      "line_number": 2,
+      "movie": "Batman Begins",
+      "scene_id": 4,
+      "text": " I had heard you were back. What are you doing?"
+   },
+   {
+      "actor": "Wayne",
+      "line_number": 3,
+      "movie": "Batman Begins",
+      "scene_id": 4,
+      "text": " Ugh, just swimming. Wow, it is good to see you."
+   },
+   {
+      "actor": "Dawes",
+      "line_number": 4,
+      "movie": "Batman Begins",
+      "scene_id": 4,
+      "text": " You were gone a long time."
+   },
+   {
+      "actor": "Wayne",
+      "line_number": 5,
+      "movie": "Batman Begins",
+      "scene_id": 4,
+      "text": " I know. How are things."
+   },
+   {
+      "actor": "Dawes",
+      "line_number": 6,
+      "movie": "Batman Begins",
+      "scene_id": 4,
+      "text": " Same. Job's getting worse."
+   },
+   {
+      "actor": "Wayne",
+      "line_number": 7,
+      "movie": "Batman Begins",
+      "scene_id": 4,
+      "text": "  Can't change the world on your own."
+   },
+   {
+      "actor": "Dawes",
+      "line_number": 8,
+      "movie": "Batman Begins",
+      "scene_id": 4,
+      "text": "  What choice do I have. When you're too busy 'swimming.'"
+   },
+   {
+      "actor": "Wayne",
+      "line_number": 9,
+      "movie": "Batman Begins",
+      "scene_id": 4,
+      "text": " Rachel, all of, all this, it's not me. Inside, I am more."
+   },
+   {
+      "actor": "Model #1",
+      "line_number": 10,
+      "movie": "Batman Begins",
+      "scene_id": 4,
+      "text": "  Come on Bruce, come on!"
+   },
+   {
+      "actor": "Model #2",
+      "line_number": 11,
+      "movie": "Batman Begins",
+      "scene_id": 4,
+      "text": " We have some more hotels for you to buy."
+   },
+   {
+      "actor": "Dawes",
+      "line_number": 12,
+      "movie": "Batman Begins",
+      "scene_id": 4,
+      "text": "  Bruce. Deep down you may still be that same great kid you used to be. But it's not who you are underneath, it's what you do that defines you. "
+   },
+   {
+      "actor": "Dr. Jonathan Crane",
+      "line_number": 0,
+      "movie": "Batman Begins",
+      "scene_id": 5,
+      "text": " Miss Dawes, this is most irregular. I have nothing further to add to the report I filed with the judge."
+   },
+   {
+      "actor": "Rachel Dawes",
+      "line_number": 1,
+      "movie": "Batman Begins",
+      "scene_id": 5,
+      "text": " I have questions about your report."
+   },
+   {
+      "actor": "Crane",
+      "line_number": 2,
+      "movie": "Batman Begins",
+      "scene_id": 5,
+      "text": " Such as?"
+   },
+   {
+      "actor": "Dawes",
+      "line_number": 3,
+      "movie": "Batman Begins",
+      "scene_id": 5,
+      "text": " Isn't it convenient for a 52-year-old man who has no history of mental illness to suddenly have a complete psychotic breakdown, just when he's about to be indicted?"
+   },
+   {
+      "actor": "Crane",
+      "line_number": 4,
+      "movie": "Batman Begins",
+      "scene_id": 5,
+      "text": " Well, as you can see for yourself, there is nothing \"convenient\" about his symptoms. "
+   },
+   {
+      "actor": "Dawes",
+      "line_number": 5,
+      "movie": "Batman Begins",
+      "scene_id": 5,
+      "text": " What's \"scarecrow\"?"
+   },
+   {
+      "actor": "Crane",
+      "line_number": 6,
+      "movie": "Batman Begins",
+      "scene_id": 5,
+      "text": " Patients suffering delusional episodes often focus their paranoia on an external tormentor. Usually one conforming to Jungian archetypes. In this case, a scarecrow... Outside, he was a giant. In here, only the mind can grant you power."
+   },
+   {
+      "actor": "Dawes",
+      "line_number": 7,
+      "movie": "Batman Begins",
+      "scene_id": 5,
+      "text": " You enjoy the reversal?"
+   },
+   {
+      "actor": "Crane",
+      "line_number": 8,
+      "movie": "Batman Begins",
+      "scene_id": 5,
+      "text": " I respect the mind's power over the body. It's why I do what I do."
+   },
+   {
+      "actor": "Dawes",
+      "line_number": 9,
+      "movie": "Batman Begins",
+      "scene_id": 5,
+      "text": " I do what I do to keep thugs like Falcone behind bars, not in therapy."
+   },
+   {
+      "actor": "Batman",
+      "line_number": 0,
+      "movie": "Batman Begins",
+      "scene_id": 6,
+      "text": " How is she?"
+   },
+   {
+      "actor": "Lt. James Gordon",
+      "line_number": 1,
+      "movie": "Batman Begins",
+      "scene_id": 6,
+      "text": " She's fading. We've got to go.  I'll get my car."
+   },
+   {
+      "actor": "Batman",
+      "line_number": 2,
+      "movie": "Batman Begins",
+      "scene_id": 6,
+      "text": " I brought mine."
+   },
+   {
+      "actor": "Gordon",
+      "line_number": 3,
+      "movie": "Batman Begins",
+      "scene_id": 6,
+      "text": " Yours?  I've gotta get me one of those."
+   },
+   {
+      "actor": "Policeman #1",
+      "line_number": 4,
+      "movie": "Batman Begins",
+      "scene_id": 6,
+      "text": " He is in a vehicle."
+   },
+   {
+      "actor": "Dispatcher",
+      "line_number": 5,
+      "movie": "Batman Begins",
+      "scene_id": 6,
+      "text": " Make and color?"
+   },
+   {
+      "actor": "Policeman #1",
+      "line_number": 6,
+      "movie": "Batman Begins",
+      "scene_id": 6,
+      "text": " It's a black...  tank!"
+   },
+   {
+      "actor": "Batman",
+      "line_number": 0,
+      "movie": "Batman Begins",
+      "scene_id": 7,
+      "text": " Taste of your own medicine, doctor?  What have you been doing here? What was your plan? Crane! Who are you working for?"
+   },
+   {
+      "actor": "Crane",
+      "line_number": 1,
+      "movie": "Batman Begins",
+      "scene_id": 7,
+      "text": " Ra's! Ra's al Ghul!"
+   },
+   {
+      "actor": "Batman",
+      "line_number": 2,
+      "movie": "Batman Begins",
+      "scene_id": 7,
+      "text": " Ra's al Ghul is dead! Who are you working for? Crane!"
+   },
+   {
+      "actor": "Crane",
+      "line_number": 3,
+      "movie": "Batman Begins",
+      "scene_id": 7,
+      "text": "  Dr. Crane isn't here right now, but if you'd like to make an appointment..."
+   },
+   {
+      "actor": "Ducard",
+      "line_number": 0,
+      "movie": "Batman Begins",
+      "scene_id": 8,
+      "text": " Amusing, but pointless. None of these people have long to live. Your antics at the asylum have forced my hand."
+   },
+   {
+      "actor": "Bruce Wayne",
+      "line_number": 1,
+      "movie": "Batman Begins",
+      "scene_id": 8,
+      "text": " So Crane was working for you."
+   },
+   {
+      "actor": "Ducard",
+      "line_number": 2,
+      "movie": "Batman Begins",
+      "scene_id": 8,
+      "text": " His toxin is derived from the organic compound found in our blue flowers. He was able to weaponize it."
+   },
+   {
+      "actor": "Wayne",
+      "line_number": 3,
+      "movie": "Batman Begins",
+      "scene_id": 8,
+      "text": " He's not a member of the League of Shadows?"
+   },
+   {
+      "actor": "Ducard",
+      "line_number": 4,
+      "movie": "Batman Begins",
+      "scene_id": 8,
+      "text": " Of course not. He thought our plan was to hold the city to ransom."
+   },
+   {
+      "actor": "Wayne",
+      "line_number": 5,
+      "movie": "Batman Begins",
+      "scene_id": 8,
+      "text": " But really, you are going to release Crane's poison on the entire city."
+   },
+   {
+      "actor": "Ducard",
+      "line_number": 6,
+      "movie": "Batman Begins",
+      "scene_id": 8,
+      "text": " Then watch Gotham tear itself apart through fear."
+   },
+   {
+      "actor": "Wayne",
+      "line_number": 7,
+      "movie": "Batman Begins",
+      "scene_id": 8,
+      "text": " You're going to destroy millions of lives."
+   },
+   {
+      "actor": "Ducard",
+      "line_number": 8,
+      "movie": "Batman Begins",
+      "scene_id": 8,
+      "text": " Only a cynical man would call what these people have \"lives,\" Wayne. Crime. Despair. This was not how man was supposed to live. The League of Shadows has been a check against human corruption for thousands of years. We sacked Rome, loaded trade ships with plague rats. Burned London to the ground. Every time a civilization reaches the pinnacle of its decadence, we return to restore the balance."
+   },
+   {
+      "actor": "Wayne",
+      "line_number": 9,
+      "movie": "Batman Begins",
+      "scene_id": 8,
+      "text": " Gotham isn't beyond saving. Give me more time. There are good people here."
+   },
+   {
+      "actor": "Ducard",
+      "line_number": 10,
+      "movie": "Batman Begins",
+      "scene_id": 8,
+      "text": " You are defending a city so corrupt, we have infiltrated every level of its infrastructure. When I found you in that jail, you were lost. But I believed in you. I took away your fear, and showed you a path. You were my greatest student. It should be you standing by my side, saving the world."
+   },
+   {
+      "actor": "Wayne",
+      "line_number": 11,
+      "movie": "Batman Begins",
+      "scene_id": 8,
+      "text": " I'll be standing where I belong"
+   },
+   {
+      "actor": "Ducard",
+      "line_number": 12,
+      "movie": "Batman Begins",
+      "scene_id": 8,
+      "text": " No one can save Gotham.  When a forest grows too wild, a purging fire is inevitable and natural. Tomorrow, the world will watch in horror as its greatest city destroys itself. The movement back to harmony will be unstoppable this time."
+   },
+   {
+      "actor": "Wayne",
+      "line_number": 13,
+      "movie": "Batman Begins",
+      "scene_id": 8,
+      "text": " You've attacked Gotham before?"
+   },
+   {
+      "actor": "Ducard",
+      "line_number": 14,
+      "movie": "Batman Begins",
+      "scene_id": 8,
+      "text": " Of course. Over time, our weapons have grown more sophisticated. With Gotham, we tried a new one - economics. But, we underestimated certain of Gotham's citizens. Such as your parents. Gunned down by one of the very people they were trying to help. Create enough hunger and everyone becomes a criminal. Their deaths galvanized the city unto saving itself and Gotham has limped on ever since. We are back to finish the job. And this time, no misguided idealists will stand in the way. Like your father, you lack the courage to do all that is necessary. If someone stands in the way of true justice, you simply walk up behind them, and stab them in the heart."
+   },
+   {
+      "actor": "Bruce Wayne",
+      "line_number": 0,
+      "movie": "Batman Begins",
+      "scene_id": 9,
+      "text": " I wanted to save Gotham. I've failed."
+   },
+   {
+      "actor": "Alfred",
+      "line_number": 1,
+      "movie": "Batman Begins",
+      "scene_id": 9,
+      "text": " Why do we fall, sir? So that we can learn to pick ourselves up."
+   },
+   {
+      "actor": "Bruce",
+      "line_number": 2,
+      "movie": "Batman Begins",
+      "scene_id": 9,
+      "text": " You still haven't given up on me?"
+   },
+   {
+      "actor": "Alfred",
+      "line_number": 3,
+      "movie": "Batman Begins",
+      "scene_id": 9,
+      "text": " Never."
+   },
+   {
+      "actor": "Ducard",
+      "line_number": 0,
+      "movie": "Batman Begins",
+      "scene_id": 10,
+      "text": "  Don't be afraid, Bruce. You are just an ordinary man in a cape! That's why you couldn't fight injustice and that's why you can't stop this train!"
+   },
+   {
+      "actor": "Batman",
+      "line_number": 1,
+      "movie": "Batman Begins",
+      "scene_id": 10,
+      "text": " Who said anything about stopping it?!  You never learned to mind your surroundings!"
+   },
+   {
+      "actor": "Ducard",
+      "line_number": 2,
+      "movie": "Batman Begins",
+      "scene_id": 10,
+      "text": " Have you finally learned to do what is necessary?"
+   },
+   {
+      "actor": "Batman",
+      "line_number": 3,
+      "movie": "Batman Begins",
+      "scene_id": 10,
+      "text": " I won't kill you...but I don't have to save you. "
+   },
+   {
+      "actor": "Jessica",
+      "line_number": 0,
+      "movie": "Batman Begins",
+      "scene_id": 11,
+      "text": " The meeting's already started."
+   },
+   {
+      "actor": "William Earle",
+      "line_number": 1,
+      "movie": "Batman Begins",
+      "scene_id": 11,
+      "text": " What meeting?  Fox? I seem to remember firing you."
+   },
+   {
+      "actor": "Lucius Fox",
+      "line_number": 2,
+      "movie": "Batman Begins",
+      "scene_id": 11,
+      "text": " You did. I got another job"
+   },
+   {
+      "actor": "Earle",
+      "line_number": 3,
+      "movie": "Batman Begins",
+      "scene_id": 11,
+      "text": " On whose authority?"
+   },
+   {
+      "actor": "Alfred Pennyworth",
+      "line_number": 4,
+      "movie": "Batman Begins",
+      "scene_id": 11,
+      "text": "  Batman may have made the front page, but Bruce Wayne got pushed to page eight."
+   },
+   {
+      "actor": "Bruce Wayne",
+      "line_number": 5,
+      "movie": "Batman Begins",
+      "scene_id": 11,
+      "text": "  Bruce Wayne."
+   },
+   {
+      "actor": "Earle",
+      "line_number": 6,
+      "movie": "Batman Begins",
+      "scene_id": 11,
+      "text": " What makes you think you can decide who's running Wayne Enterprises?"
+   },
+   {
+      "actor": "Wayne",
+      "line_number": 7,
+      "movie": "Batman Begins",
+      "scene_id": 11,
+      "text": " Well, the fact that I'm the owner."
+   },
+   {
+      "actor": "Earle",
+      "line_number": 8,
+      "movie": "Batman Begins",
+      "scene_id": 11,
+      "text": " What are you talking about? The company went public a week ago."
+   },
+   {
+      "actor": "Bruce Wayne",
+      "line_number": 9,
+      "movie": "Batman Begins",
+      "scene_id": 11,
+      "text": " And I bought most of the shares - through various charitable foundations, and trusts, and so forth. Look, it's all a bit technical, but the important thing is that my company's future is secure.  Right, Mr. Fox?"
+   },
+   {
+      "actor": "Fox",
+      "line_number": 10,
+      "movie": "Batman Begins",
+      "scene_id": 11,
+      "text": " Right you are, Mister Wayne.  Didn't you get the memo?"
+   },
+   {
+      "actor": "Batman",
+      "line_number": 0,
+      "movie": "Batman Begins",
+      "scene_id": 12,
+      "text": "  Nice."
+   },
+   {
+      "actor": "Gordon",
+      "line_number": 1,
+      "movie": "Batman Begins",
+      "scene_id": 12,
+      "text": " Couldn't find any mob bosses."
+   },
+   {
+      "actor": "Batman",
+      "line_number": 2,
+      "movie": "Batman Begins",
+      "scene_id": 12,
+      "text": " Well, Sergeant?"
+   },
+   {
+      "actor": "Gordon",
+      "line_number": 3,
+      "movie": "Batman Begins",
+      "scene_id": 12,
+      "text": " Oh, it's Lieutenant now. You really started something. Bent cops running scared, hope on the streets "
+   },
+   {
+      "actor": "Batman",
+      "line_number": 4,
+      "movie": "Batman Begins",
+      "scene_id": 12,
+      "text": " But?"
+   },
+   {
+      "actor": "Gordon",
+      "line_number": 5,
+      "movie": "Batman Begins",
+      "scene_id": 12,
+      "text": " The Narrows is lost. And we still haven't picked up Crane or half the inmates of Arkham that he freed."
+   },
+   {
+      "actor": "Batman",
+      "line_number": 6,
+      "movie": "Batman Begins",
+      "scene_id": 12,
+      "text": " We will. We can bring Gotham back."
+   },
+   {
+      "actor": "Gordon",
+      "line_number": 7,
+      "movie": "Batman Begins",
+      "scene_id": 12,
+      "text": " And what about escalation?"
+   },
+   {
+      "actor": "Batman",
+      "line_number": 8,
+      "movie": "Batman Begins",
+      "scene_id": 12,
+      "text": " Escalation?"
+   },
+   {
+      "actor": "Gordon",
+      "line_number": 9,
+      "movie": "Batman Begins",
+      "scene_id": 12,
+      "text": " We start carrying semi-automatics, they buy automatics. We start wearing Kevlar  they buy armor-piercing rounds."
+   },
+   {
+      "actor": "Batman",
+      "line_number": 10,
+      "movie": "Batman Begins",
+      "scene_id": 12,
+      "text": " And?"
+   },
+   {
+      "actor": "Gordon",
+      "line_number": 11,
+      "movie": "Batman Begins",
+      "scene_id": 12,
+      "text": " And you're wearing a mask ... and jumping off rooftops. Now, take this new guy. Armed robbery, double homicide. Got a taste for the theatrical. Like you. Leaves a calling card. "
+   },
+   {
+      "actor": "Batman",
+      "line_number": 12,
+      "movie": "Batman Begins",
+      "scene_id": 12,
+      "text": " I'll look into it. "
+   },
+   {
+      "actor": "Gordon",
+      "line_number": 13,
+      "movie": "Batman Begins",
+      "scene_id": 12,
+      "text": " I never said thank you."
+   },
+   {
+      "actor": "Batman",
+      "line_number": 14,
+      "movie": "Batman Begins",
+      "scene_id": 12,
+      "text": "  And you'll never have to. "
+   },
+   {
+      "actor": "Joker",
+      "line_number": 0,
+      "movie": "The Lego Batman Movie",
+      "scene_id": 0,
+      "text": " Your city is under attack by Gothams greatest criminal masterminds! Including... Riddler! Scarecrow! Bane! Two-Face! Catwoman! And let's not forget Clayface! Poison Ivy! Mr. Freeze! Penguin! Crazy Quilt! Eraser! Mime! Tarantula! King Tut! Orca! Killer Moth! March Hare! Zodiac Master! Gentleman Ghost! Clock King! Calendar Man! Kite Man! Catman! Zebra-man! And the Condiment King!"
+   },
+   {
+      "actor": "Pilot Bill",
+      "line_number": 1,
+      "movie": "The Lego Batman Movie",
+      "scene_id": 0,
+      "text": "  Okay, are you making some of these up?"
+   },
+   {
+      "actor": "Joker",
+      "line_number": 2,
+      "movie": "The Lego Batman Movie",
+      "scene_id": 0,
+      "text": " Nope, theyre all real! Probably worth a Google."
+   },
+   {
+      "actor": "Joker",
+      "line_number": 0,
+      "movie": "The Lego Batman Movie",
+      "scene_id": 1,
+      "text": " Okay, look, I-I'm fine with you fighting other people if you wanna do that, but what we have is special. So when people ask you who's your number one bad guy, you say..."
+   },
+   {
+      "actor": "Batman",
+      "line_number": 1,
+      "movie": "The Lego Batman Movie",
+      "scene_id": 1,
+      "text": " Superman."
+   },
+   {
+      "actor": "Joker",
+      "line_number": 2,
+      "movie": "The Lego Batman Movie",
+      "scene_id": 1,
+      "text": " Are you seriously saying that there's nothing, nothing special about our relationship?!"
+   },
+   {
+      "actor": "Batman",
+      "line_number": 3,
+      "movie": "The Lego Batman Movie",
+      "scene_id": 1,
+      "text": " Whoa! Let me tell you something, J-Bird. Batman doesn't do ships."
+   },
+   {
+      "actor": "Joker",
+      "line_number": 4,
+      "movie": "The Lego Batman Movie",
+      "scene_id": 1,
+      "text": " What?"
+   },
+   {
+      "actor": "Batman",
+      "line_number": 5,
+      "movie": "The Lego Batman Movie",
+      "scene_id": 1,
+      "text": " As in relationships. There is no us. Batman and Joker are not a thing. Joker becomes heartbroken for a long pause) No one does."
+   },
+   {
+      "actor": "'Puter",
+      "line_number": 0,
+      "movie": "The Lego Batman Movie",
+      "scene_id": 2,
+      "text": " What is the password?"
+   },
+   {
+      "actor": "Batman",
+      "line_number": 1,
+      "movie": "The Lego Batman Movie",
+      "scene_id": 2,
+      "text": " Iron Man sucks!"
+   },
+   {
+      "actor": "Alfred",
+      "line_number": 0,
+      "movie": "The Lego Batman Movie",
+      "scene_id": 3,
+      "text": " Were you looking at the old family pictures again?"
+   },
+   {
+      "actor": "Batman",
+      "line_number": 1,
+      "movie": "The Lego Batman Movie",
+      "scene_id": 3,
+      "text": " At the what? The old family... Oh, yes! I see what you mean. Look at that! The old gang. Yeah. No, I wasn't."
+   },
+   {
+      "actor": "Alfred",
+      "line_number": 2,
+      "movie": "The Lego Batman Movie",
+      "scene_id": 3,
+      "text": " I see. Sir, if you don't mind my saying, I'm a little concerned. I've seen you go through similar phases in 2016 and 2012 and 2008 and 2005 and 1997 and 1995 and 1992 and 1989 and that weird one in 1966. Do you want to talk about how you're feeling right now?"
+   },
+   {
+      "actor": "Batman",
+      "line_number": 3,
+      "movie": "The Lego Batman Movie",
+      "scene_id": 3,
+      "text": " I don't talks about feelings, Alfred. I don't have any, I've never seen one. I'm a night-stalking, crime-fighting vigilante, and a heavy metal rapping machine. I don't feel anything emotionally, except for rage. 24/7, 365, at a million percent. And if you think that there's something behind that, then you're crazy. Good night, Alfred."
+   },
+   {
+      "actor": "Alfred",
+      "line_number": 4,
+      "movie": "The Lego Batman Movie",
+      "scene_id": 3,
+      "text": " Sir, it's morning. "
+   },
+   {
+      "actor": "Batman",
+      "line_number": 5,
+      "movie": "The Lego Batman Movie",
+      "scene_id": 3,
+      "text": " The sun...!"
+   },
+   {
+      "actor": "Alfred",
+      "line_number": 0,
+      "movie": "The Lego Batman Movie",
+      "scene_id": 4,
+      "text": " Master Bruce, you live on an island figuratively and literally."
+   },
+   {
+      "actor": "Batman",
+      "line_number": 1,
+      "movie": "The Lego Batman Movie",
+      "scene_id": 4,
+      "text": " Yeah, I love it."
+   },
+   {
+      "actor": "Alfred",
+      "line_number": 2,
+      "movie": "The Lego Batman Movie",
+      "scene_id": 4,
+      "text": " You can't spend the rest of your life alone dressed in black, listening to angry music, and staying up all night."
+   },
+   {
+      "actor": "Batman",
+      "line_number": 3,
+      "movie": "The Lego Batman Movie",
+      "scene_id": 4,
+      "text": " Yes I can, because I'm Batman."
+   },
+   {
+      "actor": "Alfred",
+      "line_number": 4,
+      "movie": "The Lego Batman Movie",
+      "scene_id": 4,
+      "text": " But, don't you think it's time you finally faced your biggest fear?"
+   },
+   {
+      "actor": "Batman",
+      "line_number": 5,
+      "movie": "The Lego Batman Movie",
+      "scene_id": 4,
+      "text": " What? Snakes?"
+   },
+   {
+      "actor": "Alfred",
+      "line_number": 6,
+      "movie": "The Lego Batman Movie",
+      "scene_id": 4,
+      "text": " No."
+   },
+   {
+      "actor": "Batman",
+      "line_number": 7,
+      "movie": "The Lego Batman Movie",
+      "scene_id": 4,
+      "text": " Clowns?"
+   },
+   {
+      "actor": "Alfred",
+      "line_number": 8,
+      "movie": "The Lego Batman Movie",
+      "scene_id": 4,
+      "text": " No."
+   },
+   {
+      "actor": "Batman",
+      "line_number": 9,
+      "movie": "The Lego Batman Movie",
+      "scene_id": 4,
+      "text": " Snake-clowns?"
+   },
+   {
+      "actor": "Alfred",
+      "line_number": 10,
+      "movie": "The Lego Batman Movie",
+      "scene_id": 4,
+      "text": " Bruce, listen. Your greatest fear is being a part of a family again."
+   },
+   {
+      "actor": "Batman",
+      "line_number": 11,
+      "movie": "The Lego Batman Movie",
+      "scene_id": 4,
+      "text": " Nope, now it's Snake-clowns, because you put that idea in my head."
+   },
+   {
+      "actor": "Robin",
+      "line_number": 0,
+      "movie": "The Lego Batman Movie",
+      "scene_id": 5,
+      "text": " My name's Richard Grayson, but the kids at the orphanage call me Dick."
+   },
+   {
+      "actor": "Bruce Wayne",
+      "line_number": 1,
+      "movie": "The Lego Batman Movie",
+      "scene_id": 5,
+      "text": " Well, children can be cruel."
+   },
+   {
+      "actor": "Barbara",
+      "line_number": 0,
+      "movie": "The Lego Batman Movie",
+      "scene_id": 6,
+      "text": " It is my dream for the Police Force to someday team up with Batman!"
+   },
+   {
+      "actor": "Bruce Wayne",
+      "line_number": 1,
+      "movie": "The Lego Batman Movie",
+      "scene_id": 6,
+      "text": " I hate everything you just said."
+   },
+   {
+      "actor": "Barbara",
+      "line_number": 0,
+      "movie": "The Lego Batman Movie",
+      "scene_id": 7,
+      "text": " Batman has been on the job for a very, very, very, very, very, very, very, very, long time."
+   },
+   {
+      "actor": "Bruce Wayne",
+      "line_number": 1,
+      "movie": "The Lego Batman Movie",
+      "scene_id": 7,
+      "text": " He has aged phenomenally."
+   },
+   {
+      "actor": "Robin",
+      "line_number": 0,
+      "movie": "The Lego Batman Movie",
+      "scene_id": 8,
+      "text": " Wait, does Batman live in Bruce Wayne's basement?"
+   },
+   {
+      "actor": "Batman",
+      "line_number": 1,
+      "movie": "The Lego Batman Movie",
+      "scene_id": 8,
+      "text": " No, Bruce Wayne lives in Batman's attic!"
+   },
+   {
+      "actor": "Batman",
+      "line_number": 0,
+      "movie": "The Lego Batman Movie",
+      "scene_id": 9,
+      "text": " Sometimes, in order to right a wrong, you have to do a wrong-right."
+   },
+   {
+      "actor": "Robin",
+      "line_number": 1,
+      "movie": "The Lego Batman Movie",
+      "scene_id": 9,
+      "text": " Did Gandhi really say that?"
+   },
+   {
+      "actor": "Batman",
+      "line_number": 2,
+      "movie": "The Lego Batman Movie",
+      "scene_id": 9,
+      "text": " I'm paraphrasing."
+   },
+   {
+      "actor": "Batgirl",
+      "line_number": 0,
+      "movie": "The Lego Batman Movie",
+      "scene_id": 10,
+      "text": " Batman! Why'd you build these thing with only one seat?"
+   },
+   {
+      "actor": "Batman",
+      "line_number": 1,
+      "movie": "The Lego Batman Movie",
+      "scene_id": 10,
+      "text": " Uh, because last I checked I only had one butt."
+   },
+   {
+      "actor": "Joker",
+      "line_number": 0,
+      "movie": "The Lego Batman Movie",
+      "scene_id": 11,
+      "text": " I've got a surprise for you guys! And it's gonna make you smile!"
+   },
+   {
+      "actor": "Batman",
+      "line_number": 1,
+      "movie": "The Lego Batman Movie",
+      "scene_id": 11,
+      "text": " Uh-oh! His smile is our grimace!"
+   },
+   {
+      "actor": "Joker",
+      "line_number": 2,
+      "movie": "The Lego Batman Movie",
+      "scene_id": 11,
+      "text": " You've ran away from every person in your life, but I'm the one you're always chasing!"
+   },
+   {
+      "actor": "Batman",
+      "line_number": 3,
+      "movie": "The Lego Batman Movie",
+      "scene_id": 11,
+      "text": " Is this about that stupid \"greatest enemy\" thing?"
+   },
+   {
+      "actor": "Joker",
+      "line_number": 4,
+      "movie": "The Lego Batman Movie",
+      "scene_id": 11,
+      "text": " No, it's not. (The lights turn on and show every villain from the Phantom Zone.) Not anymore."
+   },
+   {
+      "actor": "Villain #1",
+      "line_number": 5,
+      "movie": "The Lego Batman Movie",
+      "scene_id": 11,
+      "text": " You tell 'im, Joker!"
+   },
+   {
+      "actor": "Shark",
+      "line_number": 6,
+      "movie": "The Lego Batman Movie",
+      "scene_id": 11,
+      "text": " It's time for a fresh start!"
+   },
+   {
+      "actor": "Daleks",
+      "line_number": 7,
+      "movie": "The Lego Batman Movie",
+      "scene_id": 11,
+      "text": " He's not worth it!"
+   },
+   {
+      "actor": "Joker",
+      "line_number": 8,
+      "movie": "The Lego Batman Movie",
+      "scene_id": 11,
+      "text": " I think after 78 years, I deserve respect!"
+   },
+   {
+      "actor": "Harley",
+      "line_number": 9,
+      "movie": "The Lego Batman Movie",
+      "scene_id": 11,
+      "text": " That is right; respect!"
+   },
+   {
+      "actor": "Joker",
+      "line_number": 10,
+      "movie": "The Lego Batman Movie",
+      "scene_id": 11,
+      "text": " Do you realize that you have never once said the words, \"I hate you, Joker\"?"
+   },
+   {
+      "actor": "Harley",
+      "line_number": 11,
+      "movie": "The Lego Batman Movie",
+      "scene_id": 11,
+      "text": " Not once!"
+   },
+   {
+      "actor": "Batman",
+      "line_number": 12,
+      "movie": "The Lego Batman Movie",
+      "scene_id": 11,
+      "text": " Well, I am starting to feel pretty annoyed with you right now, that's for darn sure."
+   },
+   {
+      "actor": "Joker",
+      "line_number": 13,
+      "movie": "The Lego Batman Movie",
+      "scene_id": 11,
+      "text": " Annoyed is not the same thing! Listen, Batman. I hate you."
+   },
+   {
+      "actor": "Villains",
+      "line_number": 14,
+      "movie": "The Lego Batman Movie",
+      "scene_id": 11,
+      "text": " Aww!"
+   },
+   {
+      "actor": "Villain #2",
+      "line_number": 15,
+      "movie": "The Lego Batman Movie",
+      "scene_id": 11,
+      "text": " That's nice."
+   },
+   {
+      "actor": "Joker",
+      "line_number": 16,
+      "movie": "The Lego Batman Movie",
+      "scene_id": 11,
+      "text": " Now you say it."
+   },
+   {
+      "actor": "Batman",
+      "line_number": 17,
+      "movie": "The Lego Batman Movie",
+      "scene_id": 11,
+      "text": " Me, too."
+   },
+   {
+      "actor": "Joker",
+      "line_number": 18,
+      "movie": "The Lego Batman Movie",
+      "scene_id": 11,
+      "text": " You won't... You won't change, because you can't. You won't and you can't."
+   },
+   {
+      "actor": "Villain #3",
+      "line_number": 19,
+      "movie": "The Lego Batman Movie",
+      "scene_id": 11,
+      "text": " Batman will never say it!"
+   },
+   {
+      "actor": "Harley",
+      "line_number": 20,
+      "movie": "The Lego Batman Movie",
+      "scene_id": 11,
+      "text": " You know what, Booboo, just shut it down."
+   },
+   {
+      "actor": "Joker",
+      "line_number": 21,
+      "movie": "The Lego Batman Movie",
+      "scene_id": 11,
+      "text": " These disease lunatics are right."
+   },
+   {
+      "actor": "Voldemort",
+      "line_number": 22,
+      "movie": "The Lego Batman Movie",
+      "scene_id": 11,
+      "text": " Yes, we are."
+   },
+   {
+      "actor": "Joker",
+      "line_number": 23,
+      "movie": "The Lego Batman Movie",
+      "scene_id": 11,
+      "text": " I'm not gonna be part of a one-sided relationship any longer!"
+   },
+   {
+      "actor": "Harley",
+      "line_number": 24,
+      "movie": "The Lego Batman Movie",
+      "scene_id": 11,
+      "text": " Yes!"
+   },
+   {
+      "actor": "Batman",
+      "line_number": 25,
+      "movie": "The Lego Batman Movie",
+      "scene_id": 11,
+      "text": " What are you talking about?"
+   },
+   {
+      "actor": "Joker",
+      "line_number": 26,
+      "movie": "The Lego Batman Movie",
+      "scene_id": 11,
+      "text": " You and I are done."
+   },
+   {
+      "actor": "Batman",
+      "line_number": 27,
+      "movie": "The Lego Batman Movie",
+      "scene_id": 11,
+      "text": " What is wrong with you?"
+   },
+   {
+      "actor": "Joker",
+      "line_number": 28,
+      "movie": "The Lego Batman Movie",
+      "scene_id": 11,
+      "text": " I'm moving on!"
+   },
+   {
+      "actor": "Batman",
+      "line_number": 29,
+      "movie": "The Lego Batman Movie",
+      "scene_id": 11,
+      "text": " That's ridiculous."
+   },
+   {
+      "actor": "Joker",
+      "line_number": 30,
+      "movie": "The Lego Batman Movie",
+      "scene_id": 11,
+      "text": " And on my way out, I'm gonna blow up Gotham City!"
+   },
+   {
+      "actor": "Batman",
+      "line_number": 31,
+      "movie": "The Lego Batman Movie",
+      "scene_id": 11,
+      "text": " No, you're not serious."
+   },
+   {
+      "actor": "Voldemort",
+      "line_number": 32,
+      "movie": "The Lego Batman Movie",
+      "scene_id": 11,
+      "text": " Wingardium Leviosa! (He uses his levatation spell on Batman to turn him back to Joker.)"
+   },
+   {
+      "actor": "Joker",
+      "line_number": 33,
+      "movie": "The Lego Batman Movie",
+      "scene_id": 11,
+      "text": " You know what for once, Batman, you're right. I'm not your greatest enemy; you greatest enemy... (He pulls out the Phantom Zone projector.) ...is you. Goodbye, Batman."
+   },
+   {
+      "actor": "Batman",
+      "line_number": 34,
+      "movie": "The Lego Batman Movie",
+      "scene_id": 11,
+      "text": " Wait a minute, hold on a second!"
+   },
+   {
+      "actor": "Harley",
+      "line_number": 35,
+      "movie": "The Lego Batman Movie",
+      "scene_id": 11,
+      "text": " Good for you, Booboo!"
+   }
+]
