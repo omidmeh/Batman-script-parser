@@ -36,7 +36,8 @@ def parse_script(wiki_link, destination_list):
                 pass
             else :
                 if text[0].strip() != '' and text[1].strip() != '':
-                    destination_list.append((title, scene_id, line_number, text[0], text[1] ))
+                    destination_list.append((title, scene_id, line_number, 
+                                             text[0].strip(), text[1].strip() ))
                     line_number += 1
                 
         scene_id += 1
@@ -60,12 +61,14 @@ for item in final_list:
     d["line_number"] = item[2]
     d["actor"] = item[3]
     d["text"] = item[4]
+    d["UID"] = "{0}_{1}_{2}".format(item[0], item[1], item[2] )
+    
     library.append(d)
     print(d)
     
     
 json_library = json.dumps(library)
-with open('C:\\Users\\omidm\\Development\\TJBot\\data.json', 'w') as outfile:
+with open('.\\data.json', 'w') as outfile:
     json.dump(library, outfile, ensure_ascii=False, sort_keys = True, indent = 3)
 
 #print (json_library)
