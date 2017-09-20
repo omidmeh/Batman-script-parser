@@ -2534,5 +2534,21 @@
       "movie": "The Lego Batman Movie",
       "scene_id": 11,
       "text": "Good for you, Booboo!"
+   },
+   {
+      "UID": "default_0_0",
+      "actor": "nobody",
+      "line_number": 0,
+      "movie": "default",
+      "scene_id": 0,
+      "text": "exit mode"
+   },
+   {
+      "UID": "default_0_0",
+      "actor": "nobody",
+      "line_number": 0,
+      "movie": "default",
+      "scene_id": 0,
+      "text": "exit mode"
    }
 ]

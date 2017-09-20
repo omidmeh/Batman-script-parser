@@ -53,6 +53,9 @@ pages = ["https://en.wikiquote.org/wiki/Batman_(1966_film)",
 for page in pages:
     parse_script(page, final_list)
     
+final_list.append(("default", 0, 0, "nobody", "exit mode" ))
+final_list.append(("default", 0, 0, "nobody", "exit mode" ))
+    
 library = []
 for item in final_list:
     d = dict()
