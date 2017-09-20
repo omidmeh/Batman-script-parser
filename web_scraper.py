@@ -54,7 +54,12 @@ for page in pages:
     parse_script(page, final_list)
     
 final_list.append(("default", 0, 0, "nobody", "exit mode" ))
-final_list.append(("default", 0, 0, "nobody", "exit mode" ))
+final_list.append(("default", 0, 0, "nobody", "exit mod" ))
+final_list.append(("default", 0, 0, "nobody", "exit script mode" ))
+final_list.append(("default", 0, 0, "nobody", "exit script mod" ))
+final_list.append(("default", 0, 0, "nobody", "exit scripture mode" ))
+final_list.append(("default", 0, 0, "nobody", "exit scripture mod" ))
+final_list.append(("default", 0, 0, "nobody", "exit" ))
     
 library = []
 for item in final_list:

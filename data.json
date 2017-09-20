@@ -2549,6 +2549,46 @@
       "line_number": 0,
       "movie": "default",
       "scene_id": 0,
-      "text": "exit mode"
+      "text": "exit mod"
+   },
+   {
+      "UID": "default_0_0",
+      "actor": "nobody",
+      "line_number": 0,
+      "movie": "default",
+      "scene_id": 0,
+      "text": "exit script mode"
+   },
+   {
+      "UID": "default_0_0",
+      "actor": "nobody",
+      "line_number": 0,
+      "movie": "default",
+      "scene_id": 0,
+      "text": "exit script mod"
+   },
+   {
+      "UID": "default_0_0",
+      "actor": "nobody",
+      "line_number": 0,
+      "movie": "default",
+      "scene_id": 0,
+      "text": "exit scripture mode"
+   },
+   {
+      "UID": "default_0_0",
+      "actor": "nobody",
+      "line_number": 0,
+      "movie": "default",
+      "scene_id": 0,
+      "text": "exit scripture mod"
+   },
+   {
+      "UID": "default_0_0",
+      "actor": "nobody",
+      "line_number": 0,
+      "movie": "default",
+      "scene_id": 0,
+      "text": "exit"
    }
 ]
